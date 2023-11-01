@@ -20,6 +20,6 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomNardou&layout=compact&card_width=1000&langs_count=10&theme=radical&hide_border=true"  alt="picture"/> <p />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThomNardou&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" /></br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThomNardou&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" /
 
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ThomNardou&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j" />
