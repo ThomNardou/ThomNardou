@@ -1,8 +1,17 @@
 ### Hi 👋 it's me ReactedTitan880 
+I'm an apprentice devloppeur in Switzerland and the co founder of Sulfuritium MC
 
 ---
 
-### Languages and Tools :
+### 📰 How to contact me :
+
+<a href="discord.gg/sulfuritium">Sulfuritium official discord server
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png?raw=true"/>
+</a>
+
+---
+
+### 🧰 Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -16,7 +25,7 @@
 
 ---
 
-### My Stats
+### 🔥 My Stats :
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomNardou&layout=compact&card_width=1000&langs_count=10&theme=radical&hide_border=true"  alt="picture"/> <p />
 
