@@ -5,9 +5,9 @@ I'm an apprentice devloppeur in Switzerland and the co founder of Sulfuritium MC
 
 ### 📰 How to contact me :
 
-<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png" style="width: 30px; height: 30px;"/>   <a href="discord.gg/sulfuritium">Sulfuritium official discord server</a> </br>
-<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png" style="width: 30px; height: 30px;"/>   <a href="#">My discord : reactedtitan880</a> </br>
-<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png" style="width: 30px; height: 30px;"/>   <a href="https://www.youtube.com/@reactedtitan5171">My YouTube channel</a> </br>
+[![Discord](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png)](https://discord.gg/sulfuritium) Sulfuritium official discord server
+[![Discord](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png)](#) My discord: reactedtitan880
+[![YouTube](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png)](https://www.youtube.com/@reactedtitan5171) My YouTube channel
 
 ---
 
