@@ -5,9 +5,9 @@ I'm an apprentice devloppeur in Switzerland and the co founder of Sulfuritium MC
 
 ### 📰 How to contact me :
 
-[![Discord](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png)](https://discord.gg/sulfuritium) Sulfuritium official discord server
-[![Discord](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png)](#) My discord: reactedtitan880
-[![YouTube](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png)](https://www.youtube.com/@reactedtitan5171) My YouTube channel
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png" style="width: 25px; height: 25px;"/>   <a href="discord.gg/sulfuritium">Sulfuritium official discord server</a> </br>
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Discord.png" style="width: 25px; height: 25px;"/>   <a href="#" color="blue">My discord : reactedtitan880</a> </br>
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png" style="width: 25px; height: 25px;"/>   <a href="https://www.youtube.com/@reactedtitan5171">My YouTube channel</a> </br>
 
 ---
 
@@ -21,6 +21,7 @@ I'm an apprentice devloppeur in Switzerland and the co founder of Sulfuritium MC
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VisualStudioCode" alt="VisualStudioCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
 ---
