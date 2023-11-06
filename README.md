@@ -21,6 +21,17 @@ I'm an apprentice devloppeur in Switzerland and the co founder of Sulfuritium MC
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VisualStudioCode" alt="VisualStudioCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ThomNardou/ThomNardou/blob/main/unity-logo.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### 📋 Learning :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="nodeJS" alt="nodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg"  title="godot" alt="godot" width="40" height="40"/>&nbsp;
 </div>
 
 ---
