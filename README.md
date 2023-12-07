@@ -1,6 +1,8 @@
 ### Hi 👋 it's me ReactedTitan880 
 I'm an apprentice devloppeur in Switzerland and the co founder of Sulfuritium MC
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ThomNardou&data=followers,repositories,stars,commits&theme=darkmode)]()
+
 ---
 
 ### 📰 How to contact me :
