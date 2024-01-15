@@ -55,6 +55,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ThomNardou/ThomNardou/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/AzaleeX/AzaleeX/blob/main/asset/AzaleeSnake.svg" alt="Snake animation" width="100%"/>
 
 ###
