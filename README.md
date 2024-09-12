@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThomNardou&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" width="400px" height="200" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=ThomNardou&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" width="400px" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomNardou&layout=compact&card_width=1000&langs_count=10&theme=radical&hide_border=true" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomNardou&layout=compact&card_width=1000&langs_count=15&theme=radical&hide_border=true" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThomNardou&layout=compact&theme=github-compact"/>
 </div>
 
